@@ -1,0 +1,1 @@
+JWST data of Luhman 16 B downloaded from MAST: https://mast.stsci.edu/search/ui/#/jwst/results?resolve=true&target=Luhman%2016AB&instruments=&program_id=2965&radius=3&radius_units=arcminutes&useStore=false&search_key=3dbfecab7a3a2
